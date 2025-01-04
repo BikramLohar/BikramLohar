@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BikramLohar
 - 👀 I’m interested in Software Engineering,frontend Developement
-- 🌱 I’m currently learning React js
+- 🌱 I’m currently learning React js,Basics Of Cloud Computing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - 😄 Pronouns: ...
