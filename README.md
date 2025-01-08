@@ -5,6 +5,7 @@
 - 📫 How to reach me 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: learning new technologies always motivated me
+- programming Languages: Java,C,Javascript,Python 
 
 <!---
 BikramLohar/BikramLohar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
